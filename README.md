@@ -60,3 +60,9 @@ Grounded Responses
 Python • Streamlit • LangChain • ChromaDB • HuggingFace • Groq • PyPDF • RAG
 
 ---
+
+## Demo Link
+
+https://retrieval-intelligence-engine-gvgwmqjvvk3wyjxywcm6we.streamlit.app/
+
+---
